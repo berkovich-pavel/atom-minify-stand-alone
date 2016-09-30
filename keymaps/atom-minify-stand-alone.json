@@ -1,0 +1,6 @@
+{
+  "atom-text-editor": {
+    "f3": "Minify stand alone: minify",
+    "f4": "Minify stand alone: generate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "atom-minify-stand-alone",
+  "main": "./lib/atom-minify-stand-alone.js",
+  "version": "0.0.0",
+  "description": "Minify a js / css file without dependencies.",
+  "keywords": [
+    "js",
+    "css",
+    "minify",
+    "compress",
+    "standalone"
+  ],
+  "repository": "https://github.com/foreshadow/atom-minify-stand-alone",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
