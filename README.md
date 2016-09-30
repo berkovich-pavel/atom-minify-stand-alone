@@ -12,8 +12,8 @@ It is recommended to check the validity before formal use.
 - Anyway, you need an atom.
 
 # Method of use
-- `F4` to minify current file.
-- `F5` to generate a .min.* file in the same directory with the origin file.
+- `F3` to minify current file.
+- `F4` to generate a .min.* file in the same directory with the origin file.
 
 # P.S.
 This package works well in my files.  
