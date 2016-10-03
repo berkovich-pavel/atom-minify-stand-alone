@@ -8,7 +8,8 @@
     "css",
     "minify",
     "compress",
-    "standalone"
+    "standalone",
+    "javascript"
   ],
   "repository": "https://github.com/foreshadow/atom-minify-stand-alone",
   "license": "MIT",
